@@ -1,5 +1,5 @@
 name: simple_shopping_list_app
-description: A simple shopping list app for personal use
+description: シンプルで使いやすい買い物リスト管理アプリ。複数のリストを作成でき、ドラッグ&ドロップでアイテムを並び替えられます。
 publish_to: 'none'
 version: 1.0.0+1
 

@@ -78,3 +78,14 @@ coverage/
 
 # Exceptions to above rules.
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+
+# Signing keys and sensitive files
+android/key.properties
+android/app/upload-keystore.jks
+*.jks
+*.keystore
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+
+# Local configuration files
+local.properties
