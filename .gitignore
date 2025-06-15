@@ -42,6 +42,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+/android/.gradle/
 
 # iOS related
 **/ios/**/*.mode1v3
@@ -89,3 +90,5 @@ ios/Runner/GoogleService-Info.plist
 
 # Local configuration files
 local.properties
+android/local.properties
+.claude/settings.local.json
